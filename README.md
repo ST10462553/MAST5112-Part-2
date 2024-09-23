@@ -19,3 +19,5 @@ The code for part 2 of Mast5112
 
 
 <img width="165" alt="two new items" src="https://github.com/user-attachments/assets/67bb6f8f-5402-45e5-94f7-1b4eb562e2e4">
+
+<img width="165" alt="the logo" src="![Chef's kiss- logo](https://github.com/user-attachments/assets/263de8ff-e2e5-4ff2-8e30-7fff2cf1680f)">
