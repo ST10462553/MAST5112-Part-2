@@ -18,6 +18,7 @@ The code for part 2 of Mast5112
 - A counter has been added onto the interface, this feature counts and displays the number of menu items in the home screen.
 
 
-
+### YouTube Video walkthrough for the app's features: 
+https://youtu.be/dIGlvVMDFW8 
 
 
