@@ -16,3 +16,6 @@ The code for part 2 of Mast5112
 - Input the price of the dish
 - Select the course from a predefined list
 - A counter has been added onto the interface, this feature counts and displays the number of menu items in the home screen.
+
+<img width="161" alt="new menu" src="https://github.com/user-attachments/assets/4c996b91-9438-436d-ab60-89670b919339">
+<img width="165" alt="two new items" src="https://github.com/user-attachments/assets/67bb6f8f-5402-45e5-94f7-1b4eb562e2e4">
