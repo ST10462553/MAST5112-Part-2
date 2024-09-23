@@ -9,3 +9,9 @@ The code for part 2 of Mast5112
 
 
 <img width="165" alt="two new items" src="https://github.com/user-attachments/assets/67bb6f8f-5402-45e5-94f7-1b4eb562e2e4">
+
+### The user has the ability :
+- To input the dish name
+- Input the description of the dish
+- Input the price of the dish
+- Select the course from a predefined list
